@@ -1,0 +1,15 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InputOut
+build_property.ProjectDir = E:\Videos\Tutorial\C#\Udemy - Complete C Masterclass 2025-3\09. UPDATED Interfaces and Polymorphism\15. Csharp Masterclass 2024 - Chapter 9 - 09 - Decoupling Code and Enhancing Testability\InterfacesApp\InterfacesApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

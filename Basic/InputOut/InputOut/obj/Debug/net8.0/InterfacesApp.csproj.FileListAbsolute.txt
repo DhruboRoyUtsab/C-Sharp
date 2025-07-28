@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\bin\Debug\net8.0\InterfacesApp.exe
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\bin\Debug\net8.0\InterfacesApp.deps.json
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\bin\Debug\net8.0\InterfacesApp.runtimeconfig.json
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\bin\Debug\net8.0\InterfacesApp.dll
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\bin\Debug\net8.0\InterfacesApp.pdb
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\obj\Debug\net8.0\InterfacesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\obj\Debug\net8.0\InterfacesApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\obj\Debug\net8.0\InterfacesApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\obj\Debug\net8.0\InterfacesApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\obj\Debug\net8.0\InterfacesApp.dll
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\obj\Debug\net8.0\refint\InterfacesApp.dll
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\obj\Debug\net8.0\InterfacesApp.pdb
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\obj\Debug\net8.0\InterfacesApp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\InterfacesApp\InterfacesApp\obj\Debug\net8.0\ref\InterfacesApp.dll
