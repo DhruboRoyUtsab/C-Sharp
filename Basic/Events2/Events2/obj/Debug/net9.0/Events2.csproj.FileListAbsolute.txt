@@ -1,0 +1,14 @@
+E:\Coding\C#\Events2\Events2\bin\Debug\net9.0\Events2.exe
+E:\Coding\C#\Events2\Events2\bin\Debug\net9.0\Events2.deps.json
+E:\Coding\C#\Events2\Events2\bin\Debug\net9.0\Events2.runtimeconfig.json
+E:\Coding\C#\Events2\Events2\bin\Debug\net9.0\Events2.dll
+E:\Coding\C#\Events2\Events2\bin\Debug\net9.0\Events2.pdb
+E:\Coding\C#\Events2\Events2\obj\Debug\net9.0\Events2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\Events2\Events2\obj\Debug\net9.0\Events2.AssemblyInfoInputs.cache
+E:\Coding\C#\Events2\Events2\obj\Debug\net9.0\Events2.AssemblyInfo.cs
+E:\Coding\C#\Events2\Events2\obj\Debug\net9.0\Events2.csproj.CoreCompileInputs.cache
+E:\Coding\C#\Events2\Events2\obj\Debug\net9.0\Events2.dll
+E:\Coding\C#\Events2\Events2\obj\Debug\net9.0\refint\Events2.dll
+E:\Coding\C#\Events2\Events2\obj\Debug\net9.0\Events2.pdb
+E:\Coding\C#\Events2\Events2\obj\Debug\net9.0\Events2.genruntimeconfig.cache
+E:\Coding\C#\Events2\Events2\obj\Debug\net9.0\ref\Events2.dll

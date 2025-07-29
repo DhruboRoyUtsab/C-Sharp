@@ -1,0 +1,14 @@
+E:\Coding\C#\Events3\Events3\bin\Debug\net9.0\Events3.exe
+E:\Coding\C#\Events3\Events3\bin\Debug\net9.0\Events3.deps.json
+E:\Coding\C#\Events3\Events3\bin\Debug\net9.0\Events3.runtimeconfig.json
+E:\Coding\C#\Events3\Events3\bin\Debug\net9.0\Events3.dll
+E:\Coding\C#\Events3\Events3\bin\Debug\net9.0\Events3.pdb
+E:\Coding\C#\Events3\Events3\obj\Debug\net9.0\Events3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\Events3\Events3\obj\Debug\net9.0\Events3.AssemblyInfoInputs.cache
+E:\Coding\C#\Events3\Events3\obj\Debug\net9.0\Events3.AssemblyInfo.cs
+E:\Coding\C#\Events3\Events3\obj\Debug\net9.0\Events3.csproj.CoreCompileInputs.cache
+E:\Coding\C#\Events3\Events3\obj\Debug\net9.0\Events3.dll
+E:\Coding\C#\Events3\Events3\obj\Debug\net9.0\refint\Events3.dll
+E:\Coding\C#\Events3\Events3\obj\Debug\net9.0\Events3.pdb
+E:\Coding\C#\Events3\Events3\obj\Debug\net9.0\Events3.genruntimeconfig.cache
+E:\Coding\C#\Events3\Events3\obj\Debug\net9.0\ref\Events3.dll
