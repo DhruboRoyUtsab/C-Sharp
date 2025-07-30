@@ -1,0 +1,14 @@
+E:\Coding\C#\Interface2\Interface2\bin\Debug\net8.0\Interface2.exe
+E:\Coding\C#\Interface2\Interface2\bin\Debug\net8.0\Interface2.deps.json
+E:\Coding\C#\Interface2\Interface2\bin\Debug\net8.0\Interface2.runtimeconfig.json
+E:\Coding\C#\Interface2\Interface2\bin\Debug\net8.0\Interface2.dll
+E:\Coding\C#\Interface2\Interface2\bin\Debug\net8.0\Interface2.pdb
+E:\Coding\C#\Interface2\Interface2\obj\Debug\net8.0\Interface2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\Interface2\Interface2\obj\Debug\net8.0\Interface2.AssemblyInfoInputs.cache
+E:\Coding\C#\Interface2\Interface2\obj\Debug\net8.0\Interface2.AssemblyInfo.cs
+E:\Coding\C#\Interface2\Interface2\obj\Debug\net8.0\Interface2.csproj.CoreCompileInputs.cache
+E:\Coding\C#\Interface2\Interface2\obj\Debug\net8.0\Interface2.dll
+E:\Coding\C#\Interface2\Interface2\obj\Debug\net8.0\refint\Interface2.dll
+E:\Coding\C#\Interface2\Interface2\obj\Debug\net8.0\Interface2.pdb
+E:\Coding\C#\Interface2\Interface2\obj\Debug\net8.0\Interface2.genruntimeconfig.cache
+E:\Coding\C#\Interface2\Interface2\obj\Debug\net8.0\ref\Interface2.dll
