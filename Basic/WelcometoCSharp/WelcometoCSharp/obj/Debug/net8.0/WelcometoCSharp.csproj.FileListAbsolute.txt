@@ -1,0 +1,14 @@
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\bin\Debug\net8.0\WelcometoCSharp.exe
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\bin\Debug\net8.0\WelcometoCSharp.deps.json
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\bin\Debug\net8.0\WelcometoCSharp.runtimeconfig.json
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\bin\Debug\net8.0\WelcometoCSharp.dll
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\bin\Debug\net8.0\WelcometoCSharp.pdb
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\obj\Debug\net8.0\WelcometoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\obj\Debug\net8.0\WelcometoCSharp.AssemblyInfoInputs.cache
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\obj\Debug\net8.0\WelcometoCSharp.AssemblyInfo.cs
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\obj\Debug\net8.0\WelcometoCSharp.csproj.CoreCompileInputs.cache
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\obj\Debug\net8.0\WelcometoCSharp.dll
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\obj\Debug\net8.0\refint\WelcometoCSharp.dll
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\obj\Debug\net8.0\WelcometoCSharp.pdb
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\obj\Debug\net8.0\WelcometoCSharp.genruntimeconfig.cache
+E:\Coding\C#\WelcometoCSharp\WelcometoCSharp\obj\Debug\net8.0\ref\WelcometoCSharp.dll
