@@ -1,0 +1,14 @@
+E:\Coding\C#\StructBasic\StructBasic\bin\Debug\net8.0\StructBasic.exe
+E:\Coding\C#\StructBasic\StructBasic\bin\Debug\net8.0\StructBasic.deps.json
+E:\Coding\C#\StructBasic\StructBasic\bin\Debug\net8.0\StructBasic.runtimeconfig.json
+E:\Coding\C#\StructBasic\StructBasic\bin\Debug\net8.0\StructBasic.dll
+E:\Coding\C#\StructBasic\StructBasic\bin\Debug\net8.0\StructBasic.pdb
+E:\Coding\C#\StructBasic\StructBasic\obj\Debug\net8.0\StructBasic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\StructBasic\StructBasic\obj\Debug\net8.0\StructBasic.AssemblyInfoInputs.cache
+E:\Coding\C#\StructBasic\StructBasic\obj\Debug\net8.0\StructBasic.AssemblyInfo.cs
+E:\Coding\C#\StructBasic\StructBasic\obj\Debug\net8.0\StructBasic.csproj.CoreCompileInputs.cache
+E:\Coding\C#\StructBasic\StructBasic\obj\Debug\net8.0\StructBasic.dll
+E:\Coding\C#\StructBasic\StructBasic\obj\Debug\net8.0\refint\StructBasic.dll
+E:\Coding\C#\StructBasic\StructBasic\obj\Debug\net8.0\StructBasic.pdb
+E:\Coding\C#\StructBasic\StructBasic\obj\Debug\net8.0\StructBasic.genruntimeconfig.cache
+E:\Coding\C#\StructBasic\StructBasic\obj\Debug\net8.0\ref\StructBasic.dll
