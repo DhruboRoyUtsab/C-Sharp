@@ -1,0 +1,14 @@
+E:\Coding\C#\Struct2\Struct2\bin\Debug\net8.0\Struct2.exe
+E:\Coding\C#\Struct2\Struct2\bin\Debug\net8.0\Struct2.deps.json
+E:\Coding\C#\Struct2\Struct2\bin\Debug\net8.0\Struct2.runtimeconfig.json
+E:\Coding\C#\Struct2\Struct2\bin\Debug\net8.0\Struct2.dll
+E:\Coding\C#\Struct2\Struct2\bin\Debug\net8.0\Struct2.pdb
+E:\Coding\C#\Struct2\Struct2\obj\Debug\net8.0\Struct2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\Struct2\Struct2\obj\Debug\net8.0\Struct2.AssemblyInfoInputs.cache
+E:\Coding\C#\Struct2\Struct2\obj\Debug\net8.0\Struct2.AssemblyInfo.cs
+E:\Coding\C#\Struct2\Struct2\obj\Debug\net8.0\Struct2.csproj.CoreCompileInputs.cache
+E:\Coding\C#\Struct2\Struct2\obj\Debug\net8.0\Struct2.dll
+E:\Coding\C#\Struct2\Struct2\obj\Debug\net8.0\refint\Struct2.dll
+E:\Coding\C#\Struct2\Struct2\obj\Debug\net8.0\Struct2.pdb
+E:\Coding\C#\Struct2\Struct2\obj\Debug\net8.0\Struct2.genruntimeconfig.cache
+E:\Coding\C#\Struct2\Struct2\obj\Debug\net8.0\ref\Struct2.dll
