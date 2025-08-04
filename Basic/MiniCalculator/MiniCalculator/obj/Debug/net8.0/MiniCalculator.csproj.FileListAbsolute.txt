@@ -1,0 +1,14 @@
+E:\Coding\C#\MiniCalculator\MiniCalculator\bin\Debug\net8.0\MiniCalculator.exe
+E:\Coding\C#\MiniCalculator\MiniCalculator\bin\Debug\net8.0\MiniCalculator.deps.json
+E:\Coding\C#\MiniCalculator\MiniCalculator\bin\Debug\net8.0\MiniCalculator.runtimeconfig.json
+E:\Coding\C#\MiniCalculator\MiniCalculator\bin\Debug\net8.0\MiniCalculator.dll
+E:\Coding\C#\MiniCalculator\MiniCalculator\bin\Debug\net8.0\MiniCalculator.pdb
+E:\Coding\C#\MiniCalculator\MiniCalculator\obj\Debug\net8.0\MiniCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\MiniCalculator\MiniCalculator\obj\Debug\net8.0\MiniCalculator.AssemblyInfoInputs.cache
+E:\Coding\C#\MiniCalculator\MiniCalculator\obj\Debug\net8.0\MiniCalculator.AssemblyInfo.cs
+E:\Coding\C#\MiniCalculator\MiniCalculator\obj\Debug\net8.0\MiniCalculator.csproj.CoreCompileInputs.cache
+E:\Coding\C#\MiniCalculator\MiniCalculator\obj\Debug\net8.0\MiniCalculator.dll
+E:\Coding\C#\MiniCalculator\MiniCalculator\obj\Debug\net8.0\refint\MiniCalculator.dll
+E:\Coding\C#\MiniCalculator\MiniCalculator\obj\Debug\net8.0\MiniCalculator.pdb
+E:\Coding\C#\MiniCalculator\MiniCalculator\obj\Debug\net8.0\MiniCalculator.genruntimeconfig.cache
+E:\Coding\C#\MiniCalculator\MiniCalculator\obj\Debug\net8.0\ref\MiniCalculator.dll
