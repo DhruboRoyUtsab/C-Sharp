@@ -1,0 +1,14 @@
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\bin\Debug\net8.0\DateTimeFunction.exe
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\bin\Debug\net8.0\DateTimeFunction.deps.json
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\bin\Debug\net8.0\DateTimeFunction.runtimeconfig.json
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\bin\Debug\net8.0\DateTimeFunction.dll
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\bin\Debug\net8.0\DateTimeFunction.pdb
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net8.0\DateTimeFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net8.0\DateTimeFunction.AssemblyInfoInputs.cache
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net8.0\DateTimeFunction.AssemblyInfo.cs
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net8.0\DateTimeFunction.csproj.CoreCompileInputs.cache
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net8.0\DateTimeFunction.dll
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net8.0\refint\DateTimeFunction.dll
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net8.0\DateTimeFunction.pdb
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net8.0\DateTimeFunction.genruntimeconfig.cache
+E:\Coding\C#\DateTimeFunction\DateTimeFunction\obj\Debug\net8.0\ref\DateTimeFunction.dll
