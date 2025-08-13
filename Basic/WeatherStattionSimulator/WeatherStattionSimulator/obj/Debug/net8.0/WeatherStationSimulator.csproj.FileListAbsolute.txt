@@ -1,0 +1,14 @@
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\bin\Debug\net8.0\WeatherStationSimulator.exe
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\bin\Debug\net8.0\WeatherStationSimulator.deps.json
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\bin\Debug\net8.0\WeatherStationSimulator.runtimeconfig.json
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\bin\Debug\net8.0\WeatherStationSimulator.dll
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\bin\Debug\net8.0\WeatherStationSimulator.pdb
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\obj\Debug\net8.0\WeatherStationSimulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\obj\Debug\net8.0\WeatherStationSimulator.AssemblyInfoInputs.cache
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\obj\Debug\net8.0\WeatherStationSimulator.AssemblyInfo.cs
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\obj\Debug\net8.0\WeatherStationSimulator.csproj.CoreCompileInputs.cache
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\obj\Debug\net8.0\WeatherStationSimulator.dll
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\obj\Debug\net8.0\refint\WeatherStationSimulator.dll
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\obj\Debug\net8.0\WeatherStationSimulator.pdb
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\obj\Debug\net8.0\WeatherStationSimulator.genruntimeconfig.cache
+E:\Coding\C#\WeatherStattionSimulator\WeatherStattionSimulator\obj\Debug\net8.0\ref\WeatherStationSimulator.dll
