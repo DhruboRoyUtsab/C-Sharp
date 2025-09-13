@@ -1,0 +1,36 @@
+﻿<Window x:Class="ToDoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoApp"
+        mc:Ignorable="d"
+        Title="To-Do App" Height="650" Width="600"
+        ResizeMode ="NoResize" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+        
+        <Button Click="AddToDoBtn" Grid.Column="1" Grid.Row="5" Content="Create ToDo" Background="#FF0076F9" BorderBrush="#FF004AFF" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="ToDoInput" Grid.Row="3" Grid.Column="1" Background="#FFE4E4E4" FontSize="16" FontFamily="Comic Sans MS" />
+        <ScrollViewer Grid.Row="1" Grid.Column="1" VerticalScrollBarVisibility="Auto" FontSize="16" FontFamily="Comic Sans MS" >
+            <StackPanel x:Name="ToDoList">
+                
+            </StackPanel>
+            
+        </ScrollViewer>
+    </Grid>
+</Window>
